@@ -117,17 +117,6 @@ Three ways to authenticate:
 > [!NOTE] 
 > SAML or GSuite Authentication is always given precedence over Database Authentication and at any point of time at least one type of authentication must always be enabled.
 
-### Quiz 
-
-1. **Q** Which is not a valid license type?
-	1. **A** Free 
-2. **Q** A Permission Bundle contains different types of permissions.
-	1. **A** True
-3. **Q** Identify the Permission Bundle that is assigned to users with a Full license.
-	1. **A** Any permission bundle can be assigned to users with Full license
-4. **Q** Users can be loaded into Gainsight NXT via  a  _______ file.
-	1. **A** CSV
-
 
 ## Resources
 
@@ -138,7 +127,7 @@ Three ways to authenticate:
 	- [Assign Users to a Company ](https://support.gainsight.com/Gainsight_NXT/01Onboarding_and_Implementation/Onboarding_for_Gainsight_NXT/Login_and_Permissions/Teams#Search_a_company_and_assign_user(s))
 	- [Assign Companies to Users](https://support.gainsight.com/Gainsight_NXT/01Onboarding_and_Implementation/Onboarding_for_Gainsight_NXT/Login_and_Permissions/Teams#Search_a_user_and_assign_company(s))
 	- [Load Teams Using Bulk APIs](https://support.gainsight.com/Gainsight_NXT/01Onboarding_and_Implementation/Onboarding_for_Gainsight_NXT/Login_and_Permissions/Teams#Load_data_to_Teams_using_Bulk_APIs)
-	- [[Salesforce Connector]]
+	- Salesforce Connector (to be added)
 	- [Salesforce Connector Overview](https://support.gainsight.com/Gainsight_NXT/01Onboarding_and_Implementation/Onboarding_for_Gainsight_NXT_in_Salesforce/Salesforce_Connector/Salesforce_Connector_Overview)
 - [Gainsight Authentication](https://support.gainsight.com/Gainsight_NXT/01Onboarding_and_Implementation/Onboarding_for_Gainsight_NXT/Login_and_Permissions/03Gainsight_Authentication#Setup_GSuite_Authentication)
 	- [SAML Authentication](https://support.gainsight.com/Gainsight_NXT/01Onboarding_and_Implementation/Onboarding_for_Gainsight_NXT/Login_and_Permissions/03Gainsight_Authentication#Setup_SAML_Authentication)
