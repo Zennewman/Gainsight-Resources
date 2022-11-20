@@ -1,10 +1,4 @@
----
-title: Admin Foundations of Gainsight
-updated: 2022-08-30 01:58:53Z
-created: 2022-08-30 01:23:38Z
-author: Zen Newman
----
-[[Gainsight Study Table Of Contents]]
+
 [Admin Foundations of Gainsight Course](https://education.gainsight.com/foundations-of-gainsight-scorm-version/584213/scorm/1xcqjaxorp9xp)
 
 ### Marketing Video
