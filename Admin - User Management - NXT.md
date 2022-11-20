@@ -54,13 +54,13 @@ Bundles are assigned form the User Management page.
 3. Select the desired license type from the dropdown in the menu that opens. 
 4. Click save
 
-![[Pasted image 20221014111730.png]]
+![image](Resources/Pasted image 20221014111730.png)
 
 **Deprovision Users**
 
 From User Management, select the user to be deactivated and click the Make Users Inactive button.  
 
-![[Pasted image 20221014111310.png]]
+![image](Resources/Pasted image 20221014111310.png)
 
 
 **Assigning Permission Bundles to Users**
@@ -68,8 +68,8 @@ From User Management, select the user to be deactivated and click the Make Users
 Permission Bundles are assigned from the User Management page. Select the desired users, click the Manage Access button and select the Manage Permission Bundles option from the dropdown. 
 
 
-![[Pasted image 20221014111506.png]]
-![[Pasted image 20221014111705.png]]
+![image](Resources/Pasted image 20221014111506.png)
+![image](Resources/Pasted image 20221014111705.png)
 
 
 
@@ -91,7 +91,7 @@ Team Based Permission can be used in tandem, or separately from Rules Based Perm
 >
 When either permission type is toggled on, users will only be able to access the company data assigned to them through either a rule or a team. All other company data will be inaccessible.
 
-![[HfyXRZrznS7_HSoc_D6pWcFby95TS288c.jpg]]
+![image](Resources/HfyXRZrznS7_HSoc_D6pWcFby95TS288c.jpg)
 
 Users can be assigned to Companies from the Company page. Companies can also be assigned to Users from the User page. 
 **Navigation** 
