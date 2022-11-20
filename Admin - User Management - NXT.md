@@ -56,7 +56,7 @@ Bundles are assigned form the User Management page.
 
 From User Management, select the user to be deactivated and click the Make Users Inactive button.  
 
-![image](Resources/Pasted image 20221014111310.png)
+![image](https://github.com/Zennewman/Gainsight-Resources/blob/bc743cebdf98428815355d66c8a8aeec5b6d61d1/Resources/Pasted%20image%2020221014111310.png)
 
 
 **Assigning Permission Bundles to Users**
