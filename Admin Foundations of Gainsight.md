@@ -1,12 +1,6 @@
 
 [Admin Foundations of Gainsight Course](https://education.gainsight.com/foundations-of-gainsight-scorm-version/584213/scorm/1xcqjaxorp9xp)
 
-### Marketing Video
-
-consolidate data from across the org to create a 360 degree view.
-Gainsight has a mobile app
-
-Create dynamic customer journeys-journey orchestrator -options for 3rd party solutions
 
 ### Common Gainsight Terms
 
