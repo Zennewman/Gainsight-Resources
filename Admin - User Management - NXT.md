@@ -26,7 +26,7 @@ Three steps to adding users
 
 ![image](https://github.com/Zennewman/Gainsight-Resources/blob/df4b4c545e9bf11232a38022c6aa88ea7309c467/Resources/Pasted%20image%2020221014105827.png)
 
-> [!Attention] 
+> **Attention**
 > Only users with license type Full can be assigned Permission Bundles. Users with Viewer and Viewer+Analytics license are auto-assigned permission bundles by default. The process of assigning Permission Bundles is explained in the next lesson.
 
 - During the user load from a CSV file, the CSV file should have the license types clearly written. The license type must be written with an underscore. For example, if the license type is Internal Collaborator, it must be written as **Internal_Collaborator** for the users to be loaded.
@@ -110,7 +110,7 @@ Three ways to authenticate:
 - SSO via Google 
 
 
-> :NOTE: 
+**Note**
 > SAML or GSuite Authentication is always given precedence over Database Authentication and at any point of time at least one type of authentication must always be enabled.
 
 
