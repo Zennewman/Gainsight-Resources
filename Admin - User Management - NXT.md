@@ -110,7 +110,7 @@ Three ways to authenticate:
 - SSO via Google 
 
 
-> [!NOTE] 
+> :NOTE: 
 > SAML or GSuite Authentication is always given precedence over Database Authentication and at any point of time at least one type of authentication must always be enabled.
 
 
