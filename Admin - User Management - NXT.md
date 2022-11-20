@@ -28,7 +28,7 @@ Three steps to adding users
 	- Email
 3. **External Systems** Users can be imported from External Systems such as Salesforce, Microsoft Dynamics 365, Slack, Zendesk and Hubspot using Connectors.  **Navigation** Administration -> User Management -> Add Users -> Add Users From External System. 
 
-[User Management Menu](https://github.com/Zennewman/Gainsight-Resources/blob/df4b4c545e9bf11232a38022c6aa88ea7309c467/Resources/Pasted%20image%2020221014105827.png)
+![image](https://github.com/Zennewman/Gainsight-Resources/blob/df4b4c545e9bf11232a38022c6aa88ea7309c467/Resources/Pasted%20image%2020221014105827.png)
 
 > [!Attention] 
 > Only users with license type Full can be assigned Permission Bundles. Users with Viewer and Viewer+Analytics license are auto-assigned permission bundles by default. The process of assigning Permission Bundles is explained in the next lesson.
