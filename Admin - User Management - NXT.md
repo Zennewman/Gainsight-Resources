@@ -1,6 +1,5 @@
  2022/10/14
 
-Tags: #Gainsight 
 [[Gainsight Study Table Of Contents]]
 
 # Admin - User Management - NXT
