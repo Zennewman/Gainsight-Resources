@@ -1,32 +1,31 @@
 # Gainsight-Resources (A work in progress)
  Training, how-to guides, best practices and other resources for deploying and maintaining Gainsight.
-# Gainsight Study Guide Table of Contents
 
 ### Study Modules 
 
 ##### Foundations of Gainsight 
 * [Admin Foundations of Gainsight](https://github.com/Zennewman/Gainsight-Resources/blob/main/Admin%20Foundations%20of%20Gainsight.md)
-* [[Data Management - MDA]]
-* [[Rules Engine- NXT]]
-* [[Admin - User Management - NXT]]
+* [Data Management - MDA](https://github.com/Zennewman/Gainsight-Resources/blob/main/Data%20Management%20-%20MDA.md)
+* [Rules Engine- NXT](https://github.com/Zennewman/Gainsight-Resources/blob/main/Rules%20Engine-%20NXT.md)
+* [Admin - User Management - NXT](https://github.com/Zennewman/Gainsight-Resources/blob/main/Admin%20-%20User%20Management%20-%20NXT.md)
 
-##### Analytics  ✅
-* [[Analytics- Reports & Dashboards]]
-* [[Analytics-Data Designer]]
+##### Analytics  
+* [Analytics- Reports & Dashboards](https://github.com/Zennewman/Gainsight-Resources/blob/main/Analytics-%20Reports%20%26%20Dashboards.md)
+* [Analytics-Data Designer](https://github.com/Zennewman/Gainsight-Resources/blob/main/Analytics-Data%20Designer.md)
 
-##### Configure End User Applications ✅
-* [[Admin 360 NXT]] 
-* [[Timeline NXT]]
-* [[Admin Cockpit & Playbooks]]
-* [[Success Plans]]
-* [[Success Snapshots]]
-* [[NXT Home]]
-* [[Gainsight Sally]]
+##### Configure End User Applications 
+* [Admin 360 NXT](https://github.com/Zennewman/Gainsight-Resources/blob/main/Admin%20360%20NXT.md)
+* [Timeline NXT](https://github.com/Zennewman/Gainsight-Resources/blob/main/Timeline%20NXT.md)
+* [Admin Cockpit & Playbooks](https://github.com/Zennewman/Gainsight-Resources/blob/main/Admin%20Cockpit%20%26%20Playbooks.md)
+* [Success Plans](https://github.com/Zennewman/Gainsight-Resources/blob/main/Success%20Plans.md)
+* Success Snapshots 🏗
+* [NXT Home](https://github.com/Zennewman/Gainsight-Resources/blob/main/NXT%20Home.md)
+* [Gainsight Sally](https://github.com/Zennewman/Gainsight-Resources/blob/main/Gainsight%20Sally.md)
 
 ##### Customer Experience 🏗
-- [[Admin - Surveys - NXT]]
-- [[Journey Orchestrator]]
-- [[Admin Segments]]
+- Admin - Surveys - NXT
+- Journey Orchestrator
+- Admin Segments
 
 
 ##### Connectors 🏗
@@ -35,20 +34,4 @@
 
 
 
-## TLDR 
 
-### Analytics 
-* **Navigation** 
-	* Settings -> Analytics -> Report Builder
-	* Settings -> Analytics -> Dashboard Builder
-	* Settings -> Analytics -> Data Designer 
-* Reports can only pull data from one object at a time unless a data set containing information from multiple objects has been created with Data Designer first. 
-* Data Designer takes information from multiple tables either in Gainsight or in external tables from the MDA and flattens them into a data set that can be saved for use in the Rules Engine, Journey Orchestrator and reports.
-* Dashboards can combine widgets visualizing data from multiple reports as well as widgets containing iframes, photos and rich text. 
-
-
-
-
-
-
-#Gainsight #CustomerSuccess #Software #Training
