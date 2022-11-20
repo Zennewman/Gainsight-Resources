@@ -4,8 +4,8 @@
 
 ### Study Modules 
 
-##### Foundations of Gainsight ✅
-* [[Admin Foundations of Gainsight]]
+##### Foundations of Gainsight 
+* [Admin Foundations of Gainsight](https://github.com/Zennewman/Gainsight-Resources/blob/main/Admin%20Foundations%20of%20Gainsight.md)
 * [[Data Management - MDA]]
 * [[Rules Engine- NXT]]
 * [[Admin - User Management - NXT]]
