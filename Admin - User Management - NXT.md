@@ -64,8 +64,8 @@ From User Management, select the user to be deactivated and click the Make Users
 Permission Bundles are assigned from the User Management page. Select the desired users, click the Manage Access button and select the Manage Permission Bundles option from the dropdown. 
 
 
-![image]([Resources/Pasted image 20221014111506.png](https://github.com/Zennewman/Gainsight-Resources/blob/fa0b606e8b5132434a47490f72db0cd1f4a35532/Resources/Pasted%20image%2020221014111506.png))
-![image](Resources/Pasted image 20221014111705.png)
+![image](https://github.com/Zennewman/Gainsight-Resources/blob/fa0b606e8b5132434a47490f72db0cd1f4a35532/Resources/Pasted%20image%2020221014111506.png))
+![image](https://github.com/Zennewman/Gainsight-Resources/blob/dcb1dfcf7303f92a3f724bb98dfa8aa7f034e59d/Resources/Pasted%20image%2020221014111705.png)
 
 
 
