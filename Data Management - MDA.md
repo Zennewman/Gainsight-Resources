@@ -28,7 +28,7 @@ The goal of the MDA is to integration and transform data into actionable insight
 
 ---
 
-![[CUFrF5YN4rHgOG0x_EHQbzGx4B-2vEmN0.png]]
+![Connections with other systems](Resources/CUFrF5YN4rHgOG0x_EHQbzGx4B-2vEmN0.png)
 Gainsight's data connectors allow you to integrate data from third party systems, including SalesForce, Microsoft Dynamics, and others. 
 
 MDA data storage is a distributed system that uses four databases: 
@@ -103,7 +103,7 @@ For example, the Person object for Alicia would contain three attribute categori
 -   **Attributes related to her work at Acme**, including Company name, Title/Designation, Office phone, Manager, etc.
 -   **Attributes associated with Alicia's Relationships at Acme**, such as a project implementation or business unit. In this scenario, the attributes are like Role, etc.
 
-![[HMq8ZqfZbeeCHg-c_3dqCUUFHzJZgPw4W.jpg]]
+![MDA](Resources/HMq8ZqfZbeeCHg-c_3dqCUUFHzJZgPw4W.jpg)
 
 ## Working in the MDA 
 
@@ -111,14 +111,14 @@ For example, the Person object for Alicia would contain three attribute categori
 
 Lookup fields are created similarly to how they're created in Salesforce. However, joins can be defined as left joins, right joins, inner joins or outer joins 
 
-![[SM-ZfHEJdzSXoJb2_wci3xpnUIRE7zqju.jpg]]
+![Screenshot of lookup field](Resources/SM-ZfHEJdzSXoJb2_wci3xpnUIRE7zqju.jpg)
 
 
 ## MDA Interface 
 
 **Navigation** Administration -> Customer Data -> Data Management 
 
-![[tw4MAfovXW7sb_I4__J3_p4gd_JjrTyT1 1.jpg]]
+![Data management in the MDA](Resources/tw4MAfovXW7sb_I4__J3_p4gd_JjrTyT1 1.jpg)
 
 Clicking into a MDA Object will give you a list of its fields, showing the following information:
 
@@ -138,7 +138,7 @@ Objects come in two broad types. Which type of object to use depends on the volu
 
 [Gainsight Objects](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Objects/Gainsight_Objects)
 
-![[Pasted image 20221011114523.png]]
+![MDA Field Data Types](Resources/Pasted image 20221011114523.png)
 
 > [!Important]
 > An important note is that once data is loaded to an object the field type cannot be changed.  All records would need to be deleted from the table to change the data type.
@@ -148,7 +148,7 @@ By clicking into an object in Data Management and then clicking the Data tab nex
 - The fields displayed can be edited
 - selecting records will provide an option to delete 
 
-![[Pasted image 20221011114906.png]]
+![Data Management](Resources/Pasted image 20221011114906.png)
 
 >[! Important]
 >Gainsight Admins have the option to delete records in bulk on the Data Operations tab. The option to delete in bulk is a powerful tool to clear out old data, but it is also possible to accidentally delete data that's still in use. The specifics of how to use these tools is covered more in our instructor-lead Data Management course. But you should be aware of the types of permanent changes that can be made here.
@@ -184,7 +184,7 @@ If a **default value** is configured, that value will be loaded when the field i
 >
  This opens a formula builder where basic formulas can be created including summing or averaging two fields a well as some more advanced level formula building which includes arithmetic operations and case statements.
 
-![[Rgf9hxZyGu_HjbYP_YGATpZ9An8wORmXo.jpg]]
+![Creating a formula](Resources/Rgf9hxZyGu_HjbYP_YGATpZ9An8wORmXo.jpg)
 
 [Creating Calculating Fields In Gainsight Data Management](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Advanced_Operations_in_Gainsight_Data_Management#Create_Calculated_Fields_on_Gainsight_Objects)
 
@@ -220,7 +220,7 @@ This is where the update keys feature becomes critical.  When additional files 
 
 UIDs are used across all objects not only to link records across Gainsight via relationships, but critically to relate those records back to corresponding records in the system of origin for that data.
 
-![[SKdKQBzeo5ZzgLCg_6L_luzHhuTDC_VTs.jpg]]
+![Data flows](Resources/SKdKQBzeo5ZzgLCg_6L_luzHhuTDC_VTs.jpg)
 
 
 ## Quiz 
