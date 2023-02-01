@@ -12,8 +12,8 @@ The rules engine queries Gainsight objects, external objects such as data flowin
 - Surface opportunities for expansion 
 - Monitor usage data at the individual level to spot engaged and unengaged users 
 
-[[Data Management - MDA]]
-![[lJzQ1Ymrv78GOoaz_eoQu3YLoGx-FDSrJ.png]]
+[Data Management - MDA](https://github.com/Zennewman/Gainsight-Resources/blob/344533146e40189b69b4b54fb53aad1026d99eff/Data%20Management%20-%20MDA.md)
+![MDA Data Architecture](https://github.com/Zennewman/Gainsight-Resources/blob/344533146e40189b69b4b54fb53aad1026d99eff/Resources/lJzQ1Ymrv78GOoaz_eoQu3YLoGx-FDSrJ.png)
 
 
 ## Creating Rules 
@@ -42,7 +42,7 @@ The rules engine queries Gainsight objects, external objects such as data flowin
 ---
 ### Gainsight Limitations
 
-![[Pasted image 20221013112935.png]]
+![Gainsight Limitations](https://github.com/Zennewman/Gainsight-Resources/blob/344533146e40189b69b4b54fb53aad1026d99eff/Resources/Pasted%20image%2020221013112935.png)
 
 
 
@@ -85,13 +85,13 @@ Rules should be limited in the scope of their query to what's needed in order to
 
 ---
 Rules Engine contains several features to help you troubleshoot your rules. First, there are icons on the Rules Engine listing that indicate how the last attempt to run the rule went. If it's a green check, there was no problem. 
-![[RI9ozXrmHunbMwHx_qTz63oh0mFxr8TgE.png]]
+![Green Check](https://github.com/Zennewman/Gainsight-Resources/blob/344533146e40189b69b4b54fb53aad1026d99eff/Resources/RI9ozXrmHunbMwHx_qTz63oh0mFxr8TgE.png)
 
 An orange triangle with an exclamation point indicates a partial failure; typically, this means that the rule itself was successful, but no data was found. Often, this is caused by null values. 
-![[2PAUqdgOponUh98g_vfHOTemmFxXiLsu7.png]]
+![Orange Caution](https://github.com/Zennewman/Gainsight-Resources/blob/344533146e40189b69b4b54fb53aad1026d99eff/Resources/2PAUqdgOponUh98g_vfHOTemmFxXiLsu7.png)
 
 Finally, a red circle with an exclamation mark is displayed if the rule completely failed. This typically indicates that the rule itself has a problem, and should be revisited.
-![[q_Lk-BaPxGP6eB3h_kT_3fn5c2UtCYZ4G.png]]
+![Red Exclaimation](https://github.com/Zennewman/Gainsight-Resources/blob/344533146e40189b69b4b54fb53aad1026d99eff/Resources/q_Lk-BaPxGP6eB3h_kT_3fn5c2UtCYZ4G.png)
 
 --- 
  
@@ -99,7 +99,7 @@ Finally, a red circle with an exclamation mark is displayed if the rule complete
 
 Additional information about the rule can be gained from the Rule Info section of the Rule Summary as showing below. 
 
-![[Pasted image 20221013132422.png]]
+![Rule Summary](https://github.com/Zennewman/Gainsight-Resources/blob/344533146e40189b69b4b54fb53aad1026d99eff/Resources/Pasted%20image%2020221013132422.png)
 
 Additionally it's queries, transformations and actions can be reviewed using the tabs along the top of the Rule Summary as well as the execution history for that particular rule. 
 
