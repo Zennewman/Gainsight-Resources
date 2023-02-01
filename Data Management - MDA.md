@@ -3,16 +3,16 @@
 [Gainsight Study Table Of Contents](README.md)
 
 ## Documentation 
-[Gainsight Data Management](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Gainsight_Data_Management)
-[Gainsight Objects](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Objects/Gainsight_Objects)
-[Gainsight Company Objects](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Objects/Gainsight_Company_Object)
-[Data Operations](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Data_Operations)
+[Gainsight Data Management](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Gainsight_Data_Management)</br>
+[Gainsight Objects](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Objects/Gainsight_Objects)</br>
+[Gainsight Company Objects](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Objects/Gainsight_Company_Object)</br>
+[Data Operations](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Data_Operations)</br>
 
-[Gainsight Matrix Data Architecture Overview](https://support.gainsight.com/Gainsight_NXT/02Data_Management/About/Gainsight_Matrix_Data_Architecture_Overview)
-[MDA Joins](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/MDA_Joins)
-[Basic Data Operations in Gainsight](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Basic_Operations_in_Gainsight_Data_Management)
-[Advanced Operations in Gainsight Data Management](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Advanced_Operations_in_Gainsight_Data_Management#Create_Calculated_Fields_on_Gainsight_Objects)
-[Dropdown Lists](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Dropdown_List)
+[Gainsight Matrix Data Architecture Overview](https://support.gainsight.com/Gainsight_NXT/02Data_Management/About/Gainsight_Matrix_Data_Architecture_Overview)</br>
+[MDA Joins](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/MDA_Joins)</br>
+[Basic Data Operations in Gainsight](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Basic_Operations_in_Gainsight_Data_Management)</br>
+[Advanced Operations in Gainsight Data Management](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Advanced_Operations_in_Gainsight_Data_Management#Create_Calculated_Fields_on_Gainsight_Objects)</br>
+[Dropdown Lists](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Dropdown_List)</br>
 
 ## MDA Introduction 
 - Create and manage custom objects
