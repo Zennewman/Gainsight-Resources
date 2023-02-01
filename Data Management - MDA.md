@@ -138,7 +138,7 @@ Objects come in two broad types. Which type of object to use depends on the volu
 
 [Gainsight Objects](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Objects/Gainsight_Objects)
 
-![MDA Field Types](Resources/Pasted image 20221011114523.png)
+![MDA Field Types](https://github.com/Zennewman/Gainsight-Resources/blob/34150c01fbb6d56ac504db7fe26cc629fb6b7bb2/Resources/Pasted%20image%2020221011114523.png)
 
 > [!Important]
 > An important note is that once data is loaded to an object the field type cannot be changed.  All records would need to be deleted from the table to change the data type.
