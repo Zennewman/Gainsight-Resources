@@ -1,6 +1,6 @@
 # Data Management - MDA 
 
-[[Gainsight Study Table Of Contents]]
+[Gainsight Study Table Of Contents](README.md)
 
 ## Documentation 
 [Gainsight Data Management](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Gainsight_Data_Management)
