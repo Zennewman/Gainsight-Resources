@@ -84,13 +84,13 @@ Rules should be limited in the scope of their query to what's needed in order to
 **From the Documentation**
 
 ---
-Rules Engine contains several features to help you troubleshoot your rules. First, there are icons on the Rules Engine listing that indicate how the last attempt to run the rule went. If it's a green check, there was no problem. 
+Rules Engine contains several features to help you troubleshoot your rules. First, there are icons on the Rules Engine listing that indicate how the last attempt to run the rule went. If it's a green check, there was no problem.</br> 
 ![Green Check](https://github.com/Zennewman/Gainsight-Resources/blob/344533146e40189b69b4b54fb53aad1026d99eff/Resources/RI9ozXrmHunbMwHx_qTz63oh0mFxr8TgE.png)
 
-An orange triangle with an exclamation point indicates a partial failure; typically, this means that the rule itself was successful, but no data was found. Often, this is caused by null values. 
+An orange triangle with an exclamation point indicates a partial failure; typically, this means that the rule itself was successful, but no data was found. Often, this is caused by null values.</br>
 ![Orange Caution](https://github.com/Zennewman/Gainsight-Resources/blob/344533146e40189b69b4b54fb53aad1026d99eff/Resources/2PAUqdgOponUh98g_vfHOTemmFxXiLsu7.png)
 
-Finally, a red circle with an exclamation mark is displayed if the rule completely failed. This typically indicates that the rule itself has a problem, and should be revisited.
+Finally, a red circle with an exclamation mark is displayed if the rule completely failed. This typically indicates that the rule itself has a problem, and should be revisited.</br>
 ![Red Exclaimation](https://github.com/Zennewman/Gainsight-Resources/blob/344533146e40189b69b4b54fb53aad1026d99eff/Resources/q_Lk-BaPxGP6eB3h_kT_3fn5c2UtCYZ4G.png)
 
 --- 
