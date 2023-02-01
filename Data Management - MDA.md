@@ -21,8 +21,7 @@
 
 The goal of the MDA is to integration and transform data into actionable insights. 
 
-Resources/UKhkeekrVTceN4vV_jqM7MaQBKIy89_tl.jpg
-
+![The information pyramid](Resources/UKhkeekrVTceN4vV_jqM7MaQBKIy89_tl.jpg)
 
 
 **From the Documentation** 
