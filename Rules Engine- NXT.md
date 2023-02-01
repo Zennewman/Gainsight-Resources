@@ -1,10 +1,4 @@
-
-
- 2022/10/13
-
-Tags: #Gainsight #Systems 
-
-[[Gainsight Study Table Of Contents]]
+![Gainsight Study Table Of Contents](https://github.com/Zennewman/Gainsight-Resources/blob/c3d83243d188e278daf0994903579e35242dd580/README.md)
 
 # Rules Engine- NXT
 
