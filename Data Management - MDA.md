@@ -7,7 +7,6 @@
 [Gainsight Objects](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Objects/Gainsight_Objects)</br>
 [Gainsight Company Objects](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Objects/Gainsight_Company_Object)</br>
 [Data Operations](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Data_Operations)</br>
-
 [Gainsight Matrix Data Architecture Overview](https://support.gainsight.com/Gainsight_NXT/02Data_Management/About/Gainsight_Matrix_Data_Architecture_Overview)</br>
 [MDA Joins](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/MDA_Joins)</br>
 [Basic Data Operations in Gainsight](https://support.gainsight.com/Gainsight_NXT/02Data_Management/Managing_Data_in_Gainsight/Basic_Operations_in_Gainsight_Data_Management)</br>
