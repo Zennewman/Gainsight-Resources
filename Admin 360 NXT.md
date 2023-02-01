@@ -1,5 +1,5 @@
 # Admin 360 NXT
-[[Gainsight Study Table Of Contents]]
+[Gainsight Study Table Of Contents](README.md)
 
 ## Resources 
 [Configure the Customer 360 Sections](https://support.gainsight.com/Gainsight_NXT/07360/02Admin_Guides/Configure_the_Customer360_Details_(C360)_Page_and_Section_Types)
