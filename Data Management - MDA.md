@@ -148,7 +148,7 @@ By clicking into an object in Data Management and then clicking the Data tab nex
 - The fields displayed can be edited
 - selecting records will provide an option to delete 
 
-![Data Management](Resources/Pasted image 20221011114906.png)
+![Data Management](https://github.com/Zennewman/Gainsight-Resources/blob/38c99dd3782f3a8f987f385d8e217ee239940e22/Resources/Pasted%20image%2020221011114906.png)
 
 >[! Important]
 >Gainsight Admins have the option to delete records in bulk on the Data Operations tab. The option to delete in bulk is a powerful tool to clear out old data, but it is also possible to accidentally delete data that's still in use. The specifics of how to use these tools is covered more in our instructor-lead Data Management course. But you should be aware of the types of permanent changes that can be made here.
