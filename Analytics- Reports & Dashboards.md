@@ -37,9 +37,9 @@
 
 
 ### How to Access Report Builder 
-![[3tCy79i3Nt7eK8Dk_AR56nsgukXPqBpGX 2.png]]
+![How to access report builder](https://github.com/Zennewman/Gainsight-Resources/blob/97a3a3443ce183f3519cdfebf32df5827c4e50a1/Resources/3tCy79i3Nt7eK8Dk_AR56nsgukXPqBpGX%202.png)
 
-![[izjjbpIo7aO0wR7V_aD9KVv8F1K1YzzcT.png]]
+![How to access report builder](https://github.com/Zennewman/Gainsight-Resources/blob/97a3a3443ce183f3519cdfebf32df5827c4e50a1/Resources/izjjbpIo7aO0wR7V_aD9KVv8F1K1YzzcT.png)
 
 
 The reports page has two sections, a Reports List page where existing reports can be accessed and a settings page where data downloads etc. can be toggled on and off. 
@@ -139,7 +139,7 @@ The layout page has two sections:
 1. Adoption Explorer, Renewal Center, Reports, Scorecard Widgets and Standard Widgets pane
 2. Dashboard layout pane
 
-![[Dashboard Builder 2022-02-03 at 11.05.55 AM (1).png]]
+![Dashboard design pane](https://github.com/Zennewman/Gainsight-Resources/blob/97a3a3443ce183f3519cdfebf32df5827c4e50a1/Resources/Dashboard%20Builder%202022-02-03%20at%2011.05.55%20AM%20(1).png)
 
 
 Admins can add **Reports**, **Adoption Explorer**, **Standard**, and **Scorecard Widgets** into the Dashboard layout pane, edit, resize, reposition, and delete in the layout pane as required. In addition, images, website iframes and rich text widgets can be added to the dashboard layout. [Information on how to configure each is detailed here](https://support.gainsight.com/Gainsight_NXT/Reports_and_Dashboards/User_Guides/08_Configure_Dashboards). 
