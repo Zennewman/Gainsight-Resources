@@ -184,5 +184,4 @@ While testing a rule, Gainsight will send a log of successes and errors in the r
 17. **Q** The Rule Summary contains:
 	1. **A** All of the above
 
-## Exercise 
-![[Rules_Engine_exercise.pdf]]
+
