@@ -118,7 +118,7 @@ Lookup fields are created similarly to how they're created in Salesforce. Howeve
 
 **Navigation** Administration -> Customer Data -> Data Management 
 
-![Data management in the MDA](Resources/tw4MAfovXW7sb_I4__J3_p4gd_JjrTyT1 1.jpg)
+![Data management in the MDA](https://github.com/Zennewman/Gainsight-Resources/blob/5c460c76c09f02e161447624786005181bccbdee/Resources/tw4MAfovXW7sb_I4__J3_p4gd_JjrTyT1%201.jpg)
 
 Clicking into a MDA Object will give you a list of its fields, showing the following information:
 
