@@ -5,12 +5,6 @@
 [Gainsight Analytics Course](https://education.gainsight.com/page/analytics)</br>
 
 -----
-## Table of Contents
-[[Analytics- Reports & Dashboards 1#Reporting Basics]]
-[[Analytics- Reports & Dashboards 1#Advanced Reporting]]
-[[Analytics- Reports & Dashboards 1#Dashboards]]
-
-----
 
 ## Reporting Basics
 
@@ -150,15 +144,5 @@ Widgets can be added from the widget dropdown on the left side of the palette. O
 [Dashboard Sharing](https://support.gainsight.com/Gainsight_NXT/Reports_and_Dashboards/User_Guides/Share_Dashboards_(Horizon_Analytics))
 [Dashboard Permissions](https://support.gainsight.com/Gainsight_NXT/Reports_and_Dashboards/Admin_Guides/02_Dashboard_Permissions)
 [Configure Dashboard Sharing](https://support.gainsight.com/Gainsight_NXT/Reports_and_Dashboards/User_Guides/10_Configure_Dashboard_for_Sharing)
-
-
-## Report & Dashboard Exercises 
-
-![[Reports_and_Dashboards_Level_2_Exercise_(1).pdf]]
-
-
-
-### Questions To Answer
-* Difference between a Custom and a Company in the Gainsight data model 
 
 
