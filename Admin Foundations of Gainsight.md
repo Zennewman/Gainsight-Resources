@@ -1,6 +1,6 @@
 
 [Admin Foundations of Gainsight Course](https://education.gainsight.com/foundations-of-gainsight-scorm-version/584213/scorm/1xcqjaxorp9xp)
-
+[Back to Read Me](https://github.com/Zennewman/Gainsight-Resources/blob/a0f7078e046e4e025608988aa1ae274447bf401f/README.md)
 
 ### Common Gainsight Terms
 
