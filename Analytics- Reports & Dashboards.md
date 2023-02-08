@@ -1,8 +1,8 @@
 # Gainsight Analytics- Reports & Dashboards
 
-[Gainsight Study Table Of Contents](https://github.com/Zennewman/Gainsight-Resources/blob/a0f7078e046e4e025608988aa1ae274447bf401f/README.md)
-[Admin Guide for Horizon Analytics](https://support.gainsight.com/SFDC_Edition/Reports_and_Dashboards/Horizon_Analytics)
-[Gainsight Analytics Course](https://education.gainsight.com/page/analytics)
+[Gainsight Study Table Of Contents](https://github.com/Zennewman/Gainsight-Resources/blob/a0f7078e046e4e025608988aa1ae274447bf401f/README.md)</br>
+[Admin Guide for Horizon Analytics](https://support.gainsight.com/SFDC_Edition/Reports_and_Dashboards/Horizon_Analytics)</br>
+[Gainsight Analytics Course](https://education.gainsight.com/page/analytics)</br>
 
 -----
 ## Table of Contents
