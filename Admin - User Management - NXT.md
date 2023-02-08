@@ -1,3 +1,5 @@
+[Back to Read Me](https://github.com/Zennewman/Gainsight-Resources/blob/a0f7078e046e4e025608988aa1ae274447bf401f/README.md)
+
 # Admin - User Management - NXT
 
 Three steps to adding users
